@@ -9,5 +9,6 @@ namespace ClassLibrary1
     public class Class1
     {
         private string s1;
+        private string s2;
     }
 }
